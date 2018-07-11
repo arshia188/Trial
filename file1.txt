@@ -1,9 +1,11 @@
 List of colors in master branch
+I am now in feature 1
 
 Violet
 Indigo
 Blue
 Green 
+why not dark green?
 Yellow
 Orange
 Red
