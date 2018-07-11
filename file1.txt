@@ -1,5 +1,4 @@
-List of colors in master branch
-I am now in feature 1
+I am feature 2.
 
 Violet
 Indigo
