@@ -1,6 +1,10 @@
 List of colors in master branch
 
+Violet
+Indigo
 Blue
 Green 
 Yellow
 Orange
+Red
+
