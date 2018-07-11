@@ -5,7 +5,7 @@ Indigo
 Blue
 Green 
 why not dark green?
-Light Yellow
+Dark Yellow
 I am added after merging with feature 1.
 Orange
 Red
